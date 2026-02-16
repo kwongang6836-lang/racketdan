@@ -1,0 +1,15 @@
+{
+  "name": "라켓단 테니스",
+  "short_name": "라켓단",
+  "start_url": "https://script.google.com/macros/s/AKfycbzsVCIlcjx8yuOl0Dmqrf8JpF50VfJdF7bwFMAO4d-fZ8O6QVjFbjELTQalei-2SXWScw/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/kwongang6836-lang/racketdan/main/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
